@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="medium_font_size">14sp</dimen>
+    <!-- 12sp in mockups, but it's too small -->
+
+    <color name="universal_50_white">#8FFF</color>
+    <drawable name="universal_50_white_drawable">#8FFF</drawable>
+</resources>
